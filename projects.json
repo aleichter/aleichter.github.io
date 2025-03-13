@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Enterprise Data Lake Platform",
+        "description": "Architected and implemented an on-premises data lake utilizing Hadoop ecosystem technologies including Kafka, Parquet, HBase, and Spark. This enterprise platform processed billions of financial transactions daily while providing both OLAP and OLTP capabilities through a unified data architecture.",
+        "technologies": ["Hadoop", "Kafka", "HBase", "Spark", "Parquet"],
+        "impact": "Enabled real-time data analytics and reporting across the enterprise while maintaining sub-second query performance"
+    },
+    {
+        "title": "Intelligent Automation Platform",
+        "description": "Led global engineering teams in building a comprehensive intelligent automation platform combining RPA and BPM capabilities. Delivered a no-code solution enabling business users to automate complex processes without requiring traditional development skills.",
+        "technologies": ["RPA", "BPM", "NodeJS", "Angular", "MongoDB"],
+        "impact": "Reduced process automation development time by 80% while expanding automation capabilities to non-technical users"
+    },
+    {
+        "title": "Multi-Region Active-Active API Platform",
+        "description": "Designed and implemented a globally distributed, active-active API architecture achieving 99.999% availability for mission-critical payment services. Implemented sophisticated failover and data consistency patterns across multiple geographic regions.",
+        "technologies": ["ECS", "Python", "C++", "PostgreSQL", "Redis", "Terraform", "CloudFront", "APIG"],
+        "impact": "Achieved five-nines availability while processing millions of financial transactions daily across multiple geographic regions"
+    }
+]
