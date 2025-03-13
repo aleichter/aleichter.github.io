@@ -10,7 +10,7 @@ function Projects() {
   useEffect(() => {
     const fetchProjects = async () => {
       try {
-        const { data } = await axios.get("http://localhost:3000/projects.json");
+        const { data } = await axios.get("https://www.andrewleichter.com/projects.json");
         setProjects(data);
         setLoading(false);
       } catch (error) {

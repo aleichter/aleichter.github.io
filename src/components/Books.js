@@ -12,7 +12,7 @@ function Books() {
   useEffect(() => {
     const fetchBooks = async () => {
       try {
-        const { data } = await axios.get("http://localhost:3000/books.json");
+        const { data } = await axios.get("https://www.andrewleichter.com/books.json");
         setBooks(data);
         setLoading(false);
       } catch (error) {
