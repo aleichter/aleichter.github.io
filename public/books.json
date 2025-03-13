@@ -1,0 +1,124 @@
+{
+  "Leadership": [
+    {
+      "title": "Drive",
+      "author": "Daniel Pink",
+      "link": "https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805",
+      "cover": "/images/books/drive.png"
+    },
+    {
+      "title": "Leaders Eat Last",
+      "author": "Simon Sinek",
+      "link": "https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591848016",
+      "cover": "/images/books/leaders-eat-last.png"
+    },
+    {
+      "title": "The Five Dysfunctions of a Team",
+      "author": "Patrick Lencioni",
+      "link": "https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756",
+      "cover": "/images/books/five-dysfunctions.png"
+    },
+    {
+      "title": "Start With Why",
+      "author": "Simon Sinek",
+      "link": "https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447",
+      "cover": "/images/books/start-with-why.jpg"
+    },
+    {
+      "title": "Extreme Ownership",
+      "author": "Jocko Willink, Leif Babin",
+      "link": "https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057",
+      "cover": "/images/books/extreme-ownership.png"
+    },
+    {
+      "title": "Radical Candor",
+      "author": "Kim Scott",
+      "link": "https://www.amazon.com/Radical-Candor-Kim-Scott/dp/1250103509",
+      "cover": "/images/books/radical-candor.png"
+    },
+    {
+      "title": "The OZ Principle",
+      "author": "Roger Connors, Tom Smith, Craig Hickman",
+      "link": "https://www.amazon.com/Oz-Principle-Individual-Organizational-Accountability/dp/1591840244",
+      "cover": "/images/books/oz-principle.png"
+    }
+  ],
+  "Organizational Management": [
+    {
+      "title": "Sooner Safer Happier",
+      "author": "Jonathan Smart",
+      "link": "https://www.amazon.com/Sooner-Safer-Happier-Antipatterns-Patterns/dp/1950508412/",
+      "cover": "/images/books/sooner-safer-happier.png"
+    },
+    {
+      "title": "Good to Great",
+      "author": "Jim Collins",
+      "link": "https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996",
+      "cover": "/images/books/good-to-great.png"
+    },
+    {
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "link": "https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898",
+      "cover": "/images/books/lean-startup.png"
+    },
+    {
+      "title": "The Phoenix Project",
+      "author": "Gene Kim, Kevin Behr, George Spafford",
+      "link": "https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290",
+      "cover": "/images/books/phoenix-project.png"
+    },
+    {
+      "title": "Wiring The Winning Organization",
+      "author": "Gene Kim",
+      "link": "https://www.amazon.com/Wiring-Winning-Organization-Slowification-Simplification/dp/1950508420",
+      "cover": "/images/books/wiring-winning-organization.png"
+    },
+    {
+      "title": "Team of Teams",
+      "author": "General Stanley McChrystal",
+      "link": "https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486",
+      "cover": "/images/books/team-of-teams.png"
+    }
+  ],
+  "Domain Skills": [
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "link": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+      "cover": "/images/books/clean-code.png"
+    },
+    {
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "link": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612",
+      "cover": "/images/books/design-patterns.png"
+    },
+    {
+      "title": "Inspired",
+      "author": "Marty Cagan",
+      "link": "https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/1119387507",
+      "cover": "/images/books/inspired.png"
+    }
+  ],
+  "Personal Development": [
+    {
+      "title": "Getting Things Done",
+      "author": "David Allen",
+      "link": "https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563",
+      "cover": "/images/books/getting-things-done.png"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "link": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299",
+      "cover": "/images/books/atomic-habits.png"
+    },
+    {
+      "title": "The Seven Habits Of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "link": "https://www.amazon.com/Seven-Habits-Highly-Effective-People/dp/0743269519",
+      "cover": "/images/books/seven-habits.png"
+    }
+  ]
+}

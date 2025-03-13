@@ -1,0 +1,66 @@
+.leadership {
+  padding: 2rem;
+  background-color: #f8f9fa;
+  text-align: center;
+}
+
+.leadership-description {
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto 2rem;
+  color: #4a5568;
+  text-align: center;
+  line-height: 1.6;
+}
+
+.experience-item {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.experience-item h4 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.experience-item p {
+  color: #4a5568;
+}
+
+.experience-item .duration {
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.custom-dot-list {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 20px;
+}
+
+.custom-dot-list button {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: none;
+  background-color: #ddd;
+  cursor: pointer;
+}
+
+.custom-dot-list .active {
+  background-color: #007bff;
+}
+
+/* Remove custom carousel overrides */
+.react-multi-carousel-track,
+.react-multi-carousel-list {
+  /* Remove any custom styles that might interfere with the default behavior */
+}
