@@ -28,15 +28,6 @@ function Contact() {
           <FaLinkedin className="contact-icon" />
           LinkedIn
         </a>
-        <a
-          href="https://threads.net/@aleichter"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="contact-link"
-        >
-          <SiThreads className="contact-icon" />
-          Threads
-        </a>
       </div>
     </section>
   );
