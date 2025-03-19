@@ -2,33 +2,75 @@
   "experiences": [
     {
       "title": "Senior Manager, Software Engineering",
-      "company": "Cox Automotive",
+      "company": "Cox Automotive Inc.",
       "duration": "Jan 2023 - Present",
-      "description": "Leading multiple on and off shore teams supporting high-volume APIs for payment services in the automotive industry. Providing organizational and architectural leadership while partnering with product and program management teams to ensure successful feature delivery and maintain high resilience and quality for our payment platform."
+      "description": "As a Senior Software, Engineering Manager for Cox Automotive I lead multiple on and off shore teams who support and engineer some of our highest volume APIs that provide unique payment service capabilities for the automotive industry. I provide organizational and architectural leadership, partner with our product and program management teams to ensure successful delivery of features for customers while maintaining high resilience and quality for our payment platforms."
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Viant Technology",
+      "duration": "Mar 2022 - Jan 2023",
+      "description": "As a Senior Software Engineer I work directly with Viant's ad server runtime systems which execute high-volume, low-latency transactions that process billions of unique requests a day. I interact with senior product leadership to help define and prioritize requirements necessary for delivering quality features that perform with high availability and reliability utilizing Golang, SQL, and Java along with a number of popular frameworks."
     },
     {
       "title": "Chief Technology Officer",
-      "company": "EPSoft Technologies",
+      "company": "EPSoft",
       "duration": "Jun 2020 - Mar 2022",
-      "description": "Led Platform, Feature, DevOps and Reliability Engineering for EPSoft's flagship SaaS platform. Participated in hands-on execution of key features, platform modules, and DevOps implementations. Built programs to cultivate intrinsic motivation, establish team performance metrics, and mature infrastructure-as-code capabilities."
+      "description": "Responsible for leading Platform, Feature, DevOps and Reliability Engineering for EPSoft's flagship SaaS platform. My role includes participation in hands-on execution of key features, platform modules, DevOps, and SRE implementations. Partnering with Executive Leadership for sales, customer success, product, and marketing to ensure our products and services remain competitive, scale to support anticipated usage, and that our messaging aligns to our capabilities. Under my leadership, we have built programs to cultivate intrinsic motivation, establish team performance metrics, and mature our infrastructure-as-code capabilities for our cloud environments."
     },
     {
       "title": "Director - Core Systems Modernization",
       "company": "Global Payments Inc.",
       "duration": "Apr 2019 - Jun 2020",
-      "description": "Led application development teams in modernizing core systems to Cloud-ready architectures. Served as Principal Architect for Event Driven Microservice solutions and led CI/CD implementations. Successfully guided the systems modernization architecture team through the merger of TSYS and Global Payments."
+      "description": "Provided leadership to application development teams focused on modernizing core systems from legacy technology platforms to modern Cloud ready architectures and platforms. Collaborated with legacy technology teams to modernize skill sets, migrate to an agile software development methodology, and implement modern application systems. Served as Principal Architect for Event Driven Microservice and Cloud ready solutions. Successfully led the systems modernization architecture team through the merger of TSYS and Global Payments."
     },
     {
       "title": "Director, Application System Development for Big Data",
       "company": "TSYS",
       "duration": "Jun 2016 - Apr 2019",
-      "description": "Principal architect and leader for Big Data platform implementation, achieving near-realtime data ingestion pipeline supporting multi-billion events per day. Led DevOps CI/CD implementation and cultivated an environment of high-feedback and continuous learning."
+      "description": "Principal architect and leader of the technical team responsible for implementation and support of a Big Data platform. Led a global technology team that delivered a Big Data platform while achieving a near realtime data ingestion pipeline capable of supporting multi-billion ingestion events per day. This single platform can support both Analytics/OLAP with modern tools such as Apache Hive and Spark while also achieving sub-second OLTP response times utilizing Apache HBase."
     },
     {
       "title": "Associate Director - Application System Development",
       "company": "TSYS",
       "duration": "Aug 2014 - Jun 2016",
-      "description": "Led technical teams responsible for Emerging Technologies, Data Warehouse, and Automated Testing. Improved technical and behavioral skills of the team, increased code coverage, and led migration to progressive technologies."
+      "description": "Leader of technical resources responsible for architecture, implementation, and support of Emerging Technologies, Data Warehouse, and Automated Testing utilizing Agile delivery methodologies. Substantially improved the technical and behavioral skills of the team which measurably increased code coverage and decreased resources needed for manual testing. Led a dramatic shift toward more progressive technologies to deliver faster and high-impact results."
+    },
+    {
+      "title": "Manager - Automation and Business Intelligence",
+      "company": "TSYS",
+      "duration": "Mar 2012 - Aug 2014",
+      "description": "Team leader of technical resources responsible for automated data validation of the implementations development that is used to onboard new clients to business platforms. Designed, implemented and maintained the operational data warehouse associated with platform implementation. Responsibilities included, performance evaluation of team members and guidance for their professional growth, as well as, financial management of technical software resources."
+    },
+    {
+      "title": "Manager - Business Systems",
+      "company": "Synovus",
+      "duration": "Jan 2007 - Mar 2012",
+      "description": "Requirements management and functional design lead for the Loan Origination System as well as system manager for Sales and Service, Deposit Origination, Loan Origination, Teller and Service Request platforms. Managed the technology vendor and the software development life cycle, executive and sponsor management for Platform initiatives while maintaining positive relationships with internal customers."
+    },
+    {
+      "title": "Senior Business Analyst",
+      "company": "Synovus",
+      "duration": "Jun 2006 - Dec 2006",
+      "description": "Define Functional Requirements for SOA (Web Service) integrations, participate in the definition of the technology Solution Framework, and establish the criteria for the Business Analyst role in the Software Development Life Cycle."
+    },
+    {
+      "title": "Information Technology Architect",
+      "company": "W.C. Bradley Co.",
+      "duration": "Jan 2004 - May 2006",
+      "description": "Lead technical team in company culture and performance expectations. Head of strategic direction for Open Source technologies. Control, manage and deliver high impact and highly visible business projects."
+    },
+    {
+      "title": "Business Development Manager",
+      "company": "W.C. Bradley Co.",
+      "duration": "Jan 2002 - Jan 2004",
+      "description": "Identified potential clients and managed the sales process for each prospect. Worked closely with senior management to establish pricing and services offered. Established metrics and benchmarks for sales performance by implementing the 'Solution Selling' strategy. Oversaw marketing budget and tracked marketing partner performance."
+    },
+    {
+      "title": "Senior Programmer Analyst",
+      "company": "W.C. Bradley Co.",
+      "duration": "Jan 2000 - Jan 2002",
+      "description": "Peer-leader for development teams and design system architecture. Develop solutions for customer facing e-commerce websites which interact real-time with servicing system."
     }
   ]
 }
