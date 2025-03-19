@@ -36,7 +36,7 @@ function Projects() {
 
   return (
     <section id="projects" className="projects">
-      <h2>Projects</h2>
+      <h2>Key Projects</h2>
       <div className="project-list">
         {projects.map((project, index) => (
           <div key={index} className="project-item" onClick={() => openModal(project)}>
